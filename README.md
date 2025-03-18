@@ -19,7 +19,7 @@ Esta es una aplicación web para realizar sorteos de amigo secreto. Permite a lo
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone 
+    gh repo clone GuillermoAB-hub/Desaf-o-Amigo-secreto
     ```
 2. Abre el archivo `index.html` en tu navegador web.
 
